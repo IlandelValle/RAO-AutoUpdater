@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "RAO launcher update manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "version",
+    "download_url",
+    "sha256",
+    "executable"
+  ],
+  "properties": {
+    "version": {
+      "type": "string",
+      "pattern": "^[0-9A-Za-z][0-9A-Za-z._-]*$"
+    },
+    "download_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://"
+    },
+    "sha256": {
+      "type": "string",
+      "pattern": "^[A-Fa-f0-9]{64}$"
+    },
+    "executable": {
+      "type": "string",
+      "pattern": "^[^/\\\\]+$"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "version": "0.1.0-test.1",
+  "download_url": "https://github.com/Rhember-AO/RAO-AutoUpdater/releases/download/v0.1.0-test.1/RAO-Client-0.1.0-test.1-windows-x86_64.zip",
+  "sha256": "replace-with-the-64-character-sha256-of-the-release-zip",
+  "executable": "rao-client.exe"
+}
