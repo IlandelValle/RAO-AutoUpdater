@@ -6,7 +6,7 @@ Public distribution repository for RAO test-client updates. It only contains upd
 
 The launcher reads this public URL:
 
-`https://raw.githubusercontent.com/Rhember-AO/RAO-AutoUpdater/main/manifest.json`
+`https://raw.githubusercontent.com/IlandelValle/RAO-AutoUpdater/main/manifest.json`
 
 `manifest.json` is generated only when a client archive is published. Its format is described by `manifest.schema.json` and shown in `manifest.example.json`.
 
