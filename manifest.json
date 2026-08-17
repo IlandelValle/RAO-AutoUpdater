@@ -1,6 +1,1 @@
-{
-  "version": "0.1.0-test.2",
-  "download_url": "https://github.com/IlandelValle/RAO-AutoUpdater/releases/download/v0.1.0-test.2/RAO-Client-0.1.0-test.2-windows-x86_64.zip",
-  "sha256": "68cc9390b2746a6932756f86b1694381cf7f95119c02ec2ef8a97592537b1007",
-  "executable": "rao-client.exe"
-}
+{"version":"0.1.0-test.3","download_url":"https://github.com/IlandelValle/RAO-AutoUpdater/releases/download/v0.1.0-test.3/RAO-Client-0.1.0-test.3-windows-x86_64.zip","sha256":"6a146800065c3a6d8449f332e72c2454553ee9038524e67222a5d40ab89a2968","executable":"rao-client.exe"}
